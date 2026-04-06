@@ -1,0 +1,3 @@
+O DNS (Domain Name System)
+
+ele basicamente transforma a URL em ip, fazendo com que o computador acesse o site.

@@ -1,0 +1,9 @@
+É qualquer equipamento usado para conectar, gerenciar ou proteger uma rede.
+
+Modem: pega a internet que vem, e transforma na linguagem do roteador para ele entender, é a porta para a entrada da internet na casa.
+Roteador: pega a internet do modem, e distribui para vários dispositivos tanto por cabo ou por fio.
+Switch: conecta vários dispositivos dentro de uma rede local, ele faz com que os dados enviados para tal dispositivo, seja entregado a ele, sem incomodar outro na rede.
+Hub: Ao contrário de switch, ele manda pra todos da rede os dados invés do destinatário certo.
+AP: É uma antena, que você bota em cada canto da casa, pra puxar a internet pra aquele canto
+FireWall: protege a rede, bloqueando acessos não queridos ou ataques.
+Repeater: Reforça o sinal de wifi, pra que ele pegue lugares mais distantes ou paredes grossas.
