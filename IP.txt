@@ -1,0 +1,1 @@
+IP (Internet Protocol) é o endereço de um computador. Ou seja, o "nome" dele na internet.

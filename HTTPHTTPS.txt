@@ -1,0 +1,22 @@
+HTTP - HyperText transfer ptotocol
+
+é o protocolo que permite que o navegador peça as paginas de um site.
+quando eu digito http:/taltal
+ele envia a requisição
+e o server responde com o conteúdo da pagina.
+
+HTTPS HyperText transfer ptotocol secure
+
+É a versão segura do HTTP. 
+Usa criptografia SSL/TLS
+
+Resumindo o HTTP envia a carta
+O HTTPS envia a carta LACRADA
+
+
+o que é ssl
+Criptografia
+o que é TLS
+Versao mais moderna do SSL
+
+

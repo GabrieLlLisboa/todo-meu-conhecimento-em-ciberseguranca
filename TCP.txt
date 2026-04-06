@@ -1,0 +1,4 @@
+TCP - Transmission Control Protocol
+
+Garante que os dados cheguem na ordem certa
+Por exemplo, se eu mando um arquivo grande, ou recebo no caso, o arquivo é quebrado em pacotes menores por padrão. O TCP ele garante se cada pacote pequeno chegou, se não, ele pede pra reenviar.
